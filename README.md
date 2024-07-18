@@ -1,1 +1,1 @@
-# RUBY-Calculator
+Calculator in Ruby, just for fun!
