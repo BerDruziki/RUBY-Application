@@ -1,1 +1,1 @@
-Calculator in Ruby, just for fun!
+Application in Ruby, just for fun!
