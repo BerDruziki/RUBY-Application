@@ -87,4 +87,3 @@ def exibir_menu
   
     puts "-" * 20  # Linha separadora para melhorar a legibilidade
   end
-  
